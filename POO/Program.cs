@@ -11,11 +11,12 @@ namespace POO
 
             TimeSpan t1 = TimeSpan.MaxValue;
             TimeSpan t2 = TimeSpan.MinValue;
-            TimeSpan t3 = TimeSpan.Zero;
+
+            Console.WriteLine("Tenha um bom dia ");
 
             Console.WriteLine(t1);
             Console.WriteLine(t2);
-            Console.WriteLine(t3);
+
 
         }
 
