@@ -16,7 +16,7 @@ namespace POO
             n2 = int.Parse(Console.ReadLine());
             sum = n1 + n2;
             Console.WriteLine("A soma de ambos numeros é: " + sum);
-
+            Console.WriteLine("Obrigado por utilizar nosso sistema!");
 
 
         }
